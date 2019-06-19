@@ -28,7 +28,7 @@ lo        Link encap:Local Loopback
           ......  
 # === 服务器输出示例 === #
 
-
+# 一般是运用以下命令加后面的端口开启命令#
    
 iptables -t nat -A POSTROUTING -o eth0 -j MASQUERADE  
 # 如果是 OpenVZ就执行下面这个：  
