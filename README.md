@@ -1,4 +1,7 @@
-# ocserv_anyconnect
+# ocserv_anyconnect  
+# openconnect官网：https://www.infradead.org/openconnect/
+# openconnect VPN server官网： http://www.infradead.org/ocserv/
+# openconnect VPN server（ocserv）官网源码包下载地址：ftp://ftp.infradead.org/pub/ocserv/
 install ocserv_anyconnect  
 
 watch 流程.txt文件  
